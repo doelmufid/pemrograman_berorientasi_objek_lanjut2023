@@ -1,3 +1,8 @@
+#Nama: Abdul Mufid Amarullah
+#NIM: 210511045
+#Kelas: K1
+
+
 class Celcius:
     def fahrenheit(celcius):
         F = (celcius * 9/5) + 32
