@@ -1,3 +1,8 @@
+#Nama: Abdul Mufid Amarullah
+#NIM: 210511045
+#Kelas: K1
+
+
 class Celcius:
     def __init__(self, celcius):
         self.celcius=celcius
